@@ -3,7 +3,7 @@
 This is my personal .vimrc file. It uses [vim-plug](https://github.com/junegunn/vim-plug) for dependencies, so make sure to run the following commands:
 
 1. Install `vim-plug` by opening up your terminal and running
- ```
+```bash
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
