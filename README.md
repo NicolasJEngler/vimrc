@@ -15,4 +15,6 @@ While a quick `:PlugInstall` when running Neovim for the first time should be mo
 
 **Final note:**
 
+Moving the `nvim` folder to your config (e.g.: `~/.config` for Ubuntu if Neovim was installed through `apt`) directory (or cloning it inside it) should be the only requirement for it to be picked up by Neovim. 
+
 This is a pretty barebones config, and this repo serves mostly for me to be able to quickly spin up a basic dev/research environment when migrating to a new PC/laptop. 
